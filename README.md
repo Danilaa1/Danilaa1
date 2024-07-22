@@ -24,7 +24,8 @@ My passion for technology and my relentless work ethic enable me to quickly gras
 #
 
 <details>
-  My fascination with computers began in childhood, driven by a relentless curiosity about how the digital world worked. I often wondered how platforms like YouTube, Google, and triple-A games were built. This curiosity sparked my journey into the realm of programming.
+
+My fascination with computers began in childhood, driven by a relentless curiosity about how the digital world worked. I often wondered how platforms like YouTube, Google, and triple-A games were built. This curiosity sparked my journey into the realm of programming.
 
 I started with Python, crafting simple programs such as calculators and games. One of my early projects was a small search engine using Google's API. However, Python and I eventually parted ways as I discovered my true passion for Java. With guidance from my uncle, a Java enthusiast, I delved into web development and software programming. One of my proudest achievements was developing a racing game with realistic car physics and a custom server architecture in Minecraft. This included creating APIs, custom commands, rank systems, and cosmetics.
 
