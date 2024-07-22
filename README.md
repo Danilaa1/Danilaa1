@@ -22,3 +22,7 @@ My passion for technology and my relentless work ethic enable me to quickly gras
 <br/>
 
 #
+
+<details>
+<summary><h3>Daniel's Coding Story</h3></summary>
+
