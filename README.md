@@ -2,8 +2,7 @@
 
 **`Front-End Developer`**
 
-I'm a dedicated and driven creative front-end developer
-👋 $${\color{gold}Hello}$$ 
+Hello 👋 I'm a dedicated and driven creative front-end developer
 with over two years of hands-on experience in creating dynamic and engaging web applications. My expertise lies in JavaScript, TypeScript, and React, complemented by a solid foundation in Java and database management.
 
 My passion for technology and my relentless work ethic enable me to quickly grasp new concepts and deliver efficient solutions to complex challenges. I have a track record of actively participating in the development of cutting-edge projects and bringing innovative ideas to life.
