@@ -1,4 +1,4 @@
-###DANIEL WHITE
+# <span style="color: blue;">Daniel White</span>
 
 **`Front-End Developer`**
 
