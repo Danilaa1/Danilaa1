@@ -2,6 +2,7 @@
 
 **`Front-End Developer`**
 
+```diff
 👋 !Hello! I'm a dedicated and driven creative front-end developer
 with over two years of hands-on experience in creating dynamic and engaging web applications. My expertise lies in JavaScript, TypeScript, and React, complemented by a solid foundation in Java and database management.
 
