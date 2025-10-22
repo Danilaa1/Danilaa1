@@ -29,8 +29,6 @@ Always exploring the intersection of UI, performance, and intelligent systems.
 
 ### 📂 Featured Work
 - **[Cruise Deck Plan Detection Tool](#)** – Image/OCR pipeline turning deck plan images into structured data (Canvas, Node.js, OCR).  
-*(Add links or demos to your repos above once hosted on GitHub/Vercel)*
-
 ---
 
 ### 💬 About Me
