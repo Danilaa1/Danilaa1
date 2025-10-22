@@ -30,9 +30,6 @@ Always exploring the intersection of UI, performance, and intelligent systems.
 
 ### 📂 Featured Work
 - **[Cruise Deck Plan Detection Tool](#)** – Image/OCR pipeline turning deck plan images into structured data (Canvas, Node.js, OCR).  
-- **[Performance Dashboard Starter](#)** – Next.js + Tailwind starter for building scalable SaaS dashboards with integrated testing setup.  
-- **[Component Library](#)** – A small React component system for accessible, testable UI patterns.  
-
 *(Add links or demos to your repos above once hosted on GitHub/Vercel)*
 
 ---
