@@ -37,4 +37,4 @@ Outside of code, I keep learning — whether it’s optimizing a render pipeline
 
 If your team values engineers who obsess over **clean code and real-world impact**, I’d love to collaborate.
 
-📫 **Get in touch:** [LinkedIn](#) · [Portfolio](#) · [Email](mailto:youremail@example.com)
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/daniel-belyi/) · [Portfolio](https://danielsreceipt.vercel.app/) · [Email](mailto:daniel.belyi@outlook.com)
