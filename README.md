@@ -1,33 +1,46 @@
-# <span style="color: blue;">Daniel White</span>
+# <span style="color:#0078ff;">Daniel White</span>  
+**`Mid-Level Front-End Engineer`**
 
-**`Front-End Developer`**
+I build **fast, testable, and user-focused web applications** using React, Next.js, TypeScript, and Tailwind CSS.  
+Over the past 3+ years, I’ve owned and shipped production features end-to-end — from component architecture and API integration to testing, performance tuning, and deployment.
 
-Hello 👋 I'm a dedicated and driven creative front-end developer
-with over two years of hands-on experience in creating dynamic and engaging web applications. My expertise lies in JavaScript, TypeScript, and React, complemented by a solid foundation in Java and database management.
+Recent highlights:  
+- Rebuilt a full front-end in **Next.js**, cutting load times by **35%**.  
+- Shipped a **personalised quote engine** that helped increase sales by **60%**.  
+- Built an internal **AI-driven deck plan tool** to extract structured data from cruise ship layouts, reducing manual work and improving accuracy.  
 
-My passion for technology and my relentless work ethic enable me to quickly grasp new concepts and deliver efficient solutions to complex challenges. I have a track record of actively participating in the development of cutting-edge projects and bringing innovative ideas to life.
+I focus on clean code, reusable components, and measurable outcomes that make products faster and more enjoyable to use.  
+Always exploring the intersection of UI, performance, and intelligent systems.
 
-### Languages and Tools
+---
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"  />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+### 🧠 Core Stack
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img align="left" alt="Framer Motion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg"/>
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <br/>
 
-#
+---
 
-<details>
+### 📂 Featured Work
+- **[Cruise Deck Plan Detection Tool](#)** – Image/OCR pipeline turning deck plan images into structured data (Canvas, Node.js, OCR).  
+- **[Performance Dashboard Starter](#)** – Next.js + Tailwind starter for building scalable SaaS dashboards with integrated testing setup.  
+- **[Component Library](#)** – A small React component system for accessible, testable UI patterns.  
 
-My fascination with computers began in childhood, driven by a relentless curiosity about how the digital world worked. I often wondered how platforms like YouTube, Google, and triple-A games were built. This curiosity sparked my journey into the realm of programming.
+*(Add links or demos to your repos above once hosted on GitHub/Vercel)*
 
-I started with Python, crafting simple programs such as calculators and games. One of my early projects was a small search engine using Google's API. However, Python and I eventually parted ways as I discovered my true passion for Java. With guidance from my uncle, a Java enthusiast, I delved into web development and software programming. One of my proudest achievements was developing a racing game with realistic car physics and a custom server architecture in Minecraft. This included creating APIs, custom commands, rank systems, and cosmetics.
+---
 
-Despite my success in backend development, my enthusiasm shifted when I discovered front-end development. The ability to see immediate changes on a website with just a single line of code captivated me. I immersed myself in HTML, CSS/SCSS, and advanced technologies like JavaScript, TypeScript, and React. My passion for front-end development grew as I explored motion and animation with tools like GSAP and Framer Motion.
+### 💬 About Me
+I’m endlessly curious about how design, performance, and AI can merge to create smarter web experiences.  
+Outside of code, I keep learning — whether it’s optimizing a render pipeline, experimenting with motion design, or mentoring new devs.
 
-Today, I continue to be inspired and driven by the dynamic and creative world of front-end development. My journey has taught me the importance of exploring new technologies and continually expanding my knowledge. To anyone on a similar path, I advise you to embrace new challenges, find your passion, and let it guide your learning.
-<summary><h3>Daniel's Coding Story</h3>
-</summary>
+If your team values engineers who obsess over **clean code and real-world impact**, I’d love to collaborate.
+
+📫 **Get in touch:** [LinkedIn](#) · [Portfolio](#) · [Email](mailto:youremail@example.com)
