@@ -1,5 +1,5 @@
 # <span style="color:#0078ff;">Daniel White</span>  
-**`Mid-Level Front-End Engineer`** · Derby, UK · Open to UK/Europe Remote
+**`Mid-Level Front-End Engineer`** · Derby, UK
 
 I build **fast, testable, and user-focused web applications** with **React, Next.js, TypeScript, Tailwind CSS**, and **Motion (Framer Motion)**.  
 Over the past **3+ years**, I’ve shipped production features end-to-end — from component architecture and API integration to testing, performance tuning, and deployment.
