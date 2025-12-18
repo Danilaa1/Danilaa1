@@ -1,82 +1,106 @@
-# <span style="color:#0078ff;">Daniel White</span>  
-**`Mid-Level Front-End Engineer`** · Derby, UK
+<h1 align="center">Daniel White</h1>
+<p align="center">
+  <b>Mid-Level Front-End Engineer</b>
+</p>
 
-I build **fast, testable, and user-focused web applications** with **React, Next.js, TypeScript, Tailwind CSS**, and **Motion (Framer Motion)**.  
-Over the past **3+ years**, I’ve shipped production features end-to-end — from component architecture and API integration to testing, performance tuning, and deployment.
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-belyi/">LinkedIn</a> ·
+  <a href="https://danielsreceipt.vercel.app/">Portfolio</a> ·
+  <a href="mailto:daniel.belyi@outlook.com">Email</a> ·
+  <a href="https://github.com/Danilaa1">GitHub</a>
+</p>
 
-### 🚀 Impact Highlights
-- Rebuilt a full front-end in **Next.js**, reducing load times by **35%**
-- Shipped a **personalised quote engine**, supporting a **60% sales increase**
-- Built an internal **AI-driven deck plan tool** to extract structured data from cruise ship layouts, reducing manual work and improving accuracy
-- Strong experience in **payments/checkout flows**, with a focus on UX, reliability, and measurable outcomes
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%E2%9C%94-informational" />
+  <img src="https://img.shields.io/badge/Next.js-%E2%9C%94-informational" />
+  <img src="https://img.shields.io/badge/TypeScript-%E2%9C%94-informational" />
+  <img src="https://img.shields.io/badge/Tailwind-%E2%9C%94-informational" />
+  <img src="https://img.shields.io/badge/Motion%20(Framer%20Motion)-%E2%9C%94-informational" />
+  <img src="https://img.shields.io/badge/Node.js-%E2%9C%94-informational" />
+  <img src="https://img.shields.io/badge/REST%20APIs-%E2%9C%94-informational" />
+  <img src="https://img.shields.io/badge/Docker-%E2%9C%94-informational" />
+</p>
 
 ---
 
-## 🧩 What I’m Building Now: Cloudy Inspector (Browser Extension)
+### 👋 About
+Front-end developer with **3+ years** building scalable, performant web apps using **React, Next.js, TypeScript**, and **Node.js**. Strong UI/UX foundation and practical experience integrating **RESTful APIs**, improving performance, and shipping production features end-to-end.  [oai_citation:0‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)
 
-**Cloudy Inspector** is a developer-focused Chrome extension that helps you inspect UI faster and convert real DOM into reusable components.
+### 📌 Highlights (measurable)
+- Rebuilt a full front-end in **React/Next.js/TypeScript/Tailwind**, delivering **~35% faster load time** and smoother cross-platform UX.  [oai_citation:1‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
+- Engineered a **Personalised Quote System** that contributed to a **~60% increase in overall sales**.  [oai_citation:2‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
+- Improved delivery pace via structured Agile workflow + collaboration, boosting sprint velocity by **~25%**.  [oai_citation:3‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
 
-### ✅ Core Capabilities
-- Hover/inspect elements and extract **class names + HTML**
-- Copy clean snippets to clipboard (tailored for UI work)
-- Save component candidates locally for later refactor
+---
+
+## 🚧 Building Now
+### 🔍 Cloudy Inspector — Chrome Extension (Plasmo + React + TS + Motion)
+A dev-focused extension to inspect UI faster and convert real DOM into reusable component candidates.
+
+**Core**
+- Hover/inspect → extract **class names + HTML**
+- Copy clean snippets to clipboard
+- Save component candidates locally for refactor
 - Smooth UI transitions using **Motion (Framer Motion v12)**
 
-### 🗺️ Roadmap
-- Component library generation (React/Vue)
-- “Explain this UI” + AI refactor suggestions
-- Context capture (DOM + styles) → **AI-assisted component conversion**
 ---
 
-## 🧠 Core Stack
+### ✍️ Blog Website (in progress)
+A personal blog / knowledge hub where I document frontend patterns, performance wins, and build notes.
 
-### Front-End
-- **React** · **Next.js** · **TypeScript** · **Tailwind CSS**
-- **Motion / Framer Motion** (micro-interactions + polished UX)
-- UI/UX collaboration, design handoff execution, component systems
-
-### Back-End & Platform (working knowledge / used in projects)
-- **Node.js** · **REST APIs** · **SQL (Postgres)**
-- **Docker** · **Git** · CI basics · AWS exposure
-
-### Quality
-- Testing mindset: unit + integration where it matters  
-- Tools: **Jira** · Git workflows · (JUnit exposure via team environments)
+- Focus: **React/Next.js**, UI engineering, motion, and dev tooling
+- Goal: clear write-ups + practical code snippets + project deep-dives
 
 ---
 
-## 📌 Featured Work
-
-### 🔍 Cloudy Inspector — Browser Extension (Plasmo + React + TS + Motion)
-A visual dev-tooling extension to inspect elements, extract classes/HTML, and streamline component reuse.  
-**Why it matters:** less time digging through DOM/CSS and more time building consistent UI.
+## 🧩 Selected Projects
+**🛳️ Cruise Deck Plan Detection Tool (Personal Project, 2025)**  
+Automates detection/extraction of cabin numbers, boundaries, and attributes from deck plan images using **Node.js + TypeScript** with a structured data pipeline and internal validation UI.  [oai_citation:4‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)
 
 ---
 
-### 🛳️ Cruise Deck Plan Detection Tool
-An internal tool turning deck plan visuals into structured data to improve accuracy and reduce manual effort.  
-**Tech:** Canvas / Node.js / OCR pipeline  
-**Outcome:** faster data extraction + fewer errors
+## 💼 Freelance Work (Highlights)
+**🛒 MBLS Carbon — E-commerce build (Aug 2024 – Nov 2024)**  
+Designed and built a new store for a UK manufacturer (WordPress/WooCommerce, custom theme work, performance + SEO), with secure payments and automation (Stripe/PayPal, GDPR flows, order processing).  [oai_citation:5‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)
+
+**🛍️ White Lily UK — Boutique e-commerce build (Jan 2024 – Mar 2024)**  
+Co-founded and led build of a luxury handmade product store (WordPress/WooCommerce, custom themes/PHP), with a mobile-optimised experience, secure checkout, SEO, and automated workflows.  [oai_citation:6‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)
+
+**🌐 Window Cleaning Company — Website build (Sep 2023 – Mar 2024)**  
+Responsive, SEO-optimised site with form handling, backend validation, modular architecture, and reliability testing.  [oai_citation:7‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)
 
 ---
 
-## ✅ What You Can Expect Working With Me
-- Clean, reusable component architecture (scale-friendly)
-- Performance thinking (render pipeline, bundle hygiene, UX polish)
-- Practical testing + strong edge-case awareness
-- Ownership mindset: ship → measure → iterate
-- Comfortable collaborating with product/design and mentoring where helpful
+## 🧠 Core Stack (Quick View)
+- **Frontend:** React · Next.js · TypeScript · Tailwind · Motion (Framer Motion)  [oai_citation:8‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
+- **Backend/Platform:** Node.js · REST APIs · SQL (Postgres/MS SQL) · Docker · Postman  [oai_citation:9‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
+- **Tools/Workflow:** Git · Jira · Agile  [oai_citation:10‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
 
 ---
 
-## 📈 Currently Exploring
-- AI-assisted UI workflows (DOM → component generation)
-- Better motion systems (delight without jank)
-- Extension architecture patterns + scalable state/data capture
+## ✅ A bit of “interactive” (expand for details)
+<details>
+  <summary><b>What I care about when shipping UI</b></summary>
+
+- **Performance:** fast route transitions, stable layouts, minimal rerenders  
+- **Maintainability:** modular components, clear boundaries, reusable patterns  
+- **Product impact:** measurable outcomes (conversion, speed, usability)  
+- **Quality:** pragmatic testing + edge cases that actually break in prod
+
+</details>
+
+<details>
+  <summary><b>Current focus areas</b></summary>
+
+- [ ] AI-assisted UI workflows (DOM → component conversion)
+- [ ] Better motion systems (delight without jank)
+- [ ] Extension architecture for scalable capture + storage
+
+</details>
 
 ---
 
-## 📫 Get in Touch
-- **LinkedIn:** https://www.linkedin.com/in/daniel-belyi/  
-- **Portfolio:** https://danielsreceipt.vercel.app/  
-- **Email:** mailto:daniel.belyi@outlook.com
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/daniel-belyi/  
+- Portfolio: https://danielsreceipt.vercel.app/  
+- Email: mailto:daniel.belyi@outlook.com
