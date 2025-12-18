@@ -24,12 +24,12 @@
 ---
 
 ### 👋 About
-Front-end developer with **3+ years** building scalable, performant web apps using **React, Next.js, TypeScript**, and **Node.js**. Strong UI/UX foundation and practical experience integrating **RESTful APIs**, improving performance, and shipping production features end-to-end.  [oai_citation:0‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)
+Front-end developer with **3+ years** building scalable, performant web apps using **React, Next.js, TypeScript**, and **Node.js**. Strong UI/UX foundation and practical experience integrating **RESTful APIs**, improving performance, and shipping production features end-to-end.
 
 ### 📌 Highlights (measurable)
-- Rebuilt a full front-end in **React/Next.js/TypeScript/Tailwind**, delivering **~35% faster load time** and smoother cross-platform UX.  [oai_citation:1‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
-- Engineered a **Personalised Quote System** that contributed to a **~60% increase in overall sales**.  [oai_citation:2‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
-- Improved delivery pace via structured Agile workflow + collaboration, boosting sprint velocity by **~25%**.  [oai_citation:3‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
+- Rebuilt a full front-end in **React/Next.js/TypeScript/Tailwind**, delivering **~35% faster load time** and smoother cross-platform UX. 
+- Engineered a **Personalised Quote System** that contributed to a **~60% increase in overall sales**.   
+- Improved delivery pace via structured Agile workflow + collaboration, boosting sprint velocity by **~25%**.
 
 ---
 
@@ -55,26 +55,26 @@ A personal blog / knowledge hub where I document frontend patterns, performance 
 
 ## 🧩 Selected Projects
 **🛳️ Cruise Deck Plan Detection Tool (Personal Project, 2025)**  
-Automates detection/extraction of cabin numbers, boundaries, and attributes from deck plan images using **Node.js + TypeScript** with a structured data pipeline and internal validation UI.  [oai_citation:4‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)
+Automates detection/extraction of cabin numbers, boundaries, and attributes from deck plan images using **Node.js + TypeScript** with a structured data pipeline and internal validation UI.  
 
 ---
 
 ## 💼 Freelance Work (Highlights)
 **🛒 MBLS Carbon — E-commerce build (Aug 2024 – Nov 2024)**  
-Designed and built a new store for a UK manufacturer (WordPress/WooCommerce, custom theme work, performance + SEO), with secure payments and automation (Stripe/PayPal, GDPR flows, order processing).  [oai_citation:5‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)
+Designed and built a new store for a UK manufacturer (WordPress/WooCommerce, custom theme work, performance + SEO), with secure payments and automation (Stripe/PayPal, GDPR flows, order processing). 
 
 **🛍️ White Lily UK — Boutique e-commerce build (Jan 2024 – Mar 2024)**  
-Co-founded and led build of a luxury handmade product store (WordPress/WooCommerce, custom themes/PHP), with a mobile-optimised experience, secure checkout, SEO, and automated workflows.  [oai_citation:6‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)
+Co-founded and led build of a luxury handmade product store (WordPress/WooCommerce, custom themes/PHP), with a mobile-optimised experience, secure checkout, SEO, and automated workflows.  
 
 **🌐 Window Cleaning Company — Website build (Sep 2023 – Mar 2024)**  
-Responsive, SEO-optimised site with form handling, backend validation, modular architecture, and reliability testing.  [oai_citation:7‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)
+Responsive, SEO-optimised site with form handling, backend validation, modular architecture, and reliability testing.  
 
 ---
 
 ## 🧠 Core Stack (Quick View)
-- **Frontend:** React · Next.js · TypeScript · Tailwind · Motion (Framer Motion)  [oai_citation:8‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
-- **Backend/Platform:** Node.js · REST APIs · SQL (Postgres/MS SQL) · Docker · Postman  [oai_citation:9‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
-- **Tools/Workflow:** Git · Jira · Agile  [oai_citation:10‡Daniel_Resume.pdf](sediment://file_00000000ee707243bfbe673c045cff09)  
+- **Frontend:** React · Next.js · TypeScript · Tailwind · Motion (Framer Motion)
+- **Backend/Platform:** Node.js · REST APIs · SQL (Postgres/MS SQL) · Docker · Postman  
+- **Tools/Workflow:** Git · Jira · Agile 
 
 ---
 
