@@ -48,7 +48,7 @@ A dev-focused extension to inspect UI faster and convert real DOM into reusable 
 ### ✍️ Blog Website (in progress)
 A personal blog / knowledge hub where I document frontend patterns, performance wins, and build notes.
 
-- Focus: **React/Next.js**, UI engineering, motion, and dev tooling
+- Focus: **React/Astro**, UI engineering, motion, and dev tooling
 - Goal: clear write-ups + practical code snippets + project deep-dives
 
 ---
