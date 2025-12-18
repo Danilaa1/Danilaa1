@@ -60,13 +60,13 @@ Automates detection/extraction of cabin numbers, boundaries, and attributes from
 ---
 
 ## 💼 Freelance Work (Highlights)
-**🛒 MBLS Carbon — E-commerce build (Aug 2024 – Nov 2024)**  
+**🛒 MBLS Carbon — E-commerce build**  
 Designed and built a new store for a UK manufacturer (WordPress/WooCommerce, custom theme work, performance + SEO), with secure payments and automation (Stripe/PayPal, GDPR flows, order processing). 
 
-**🛍️ White Lily UK — Boutique e-commerce build (Jan 2024 – Mar 2024)**  
+**🛍️ White Lily UK — Boutique e-commerce build**  
 Co-founded and led build of a luxury handmade product store (WordPress/WooCommerce, custom themes/PHP), with a mobile-optimised experience, secure checkout, SEO, and automated workflows.  
 
-**🌐 Window Cleaning Company — Website build (Sep 2023 – Mar 2024)**  
+**🌐 Window Cleaning Company — Website build**  
 Responsive, SEO-optimised site with form handling, backend validation, modular architecture, and reliability testing.  
 
 ---
