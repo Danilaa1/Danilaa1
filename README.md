@@ -102,5 +102,5 @@ Responsive, SEO-optimised site with form handling, backend validation, modular a
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/daniel-belyi/  
-- Portfolio: https://danielsreceipt.vercel.app/  
+- Portfolio: https://danielwhitedev.vercel.app/
 - Email: mailto:daniel.belyi@outlook.com
