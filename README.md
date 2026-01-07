@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-belyi/">LinkedIn</a> ·
-  <a href="https://danielsreceipt.vercel.app/">Portfolio</a> ·
+  <a href="https://www.danielwhite.uk/">Portfolio</a> ·
   <a href="mailto:daniel.belyi@outlook.com">Email</a> ·
   <a href="https://github.com/Danilaa1">GitHub</a>
 </p>
@@ -102,5 +102,5 @@ Responsive, SEO-optimised site with form handling, backend validation, modular a
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/daniel-belyi/  
-- Portfolio: https://danielwhitedev.vercel.app/
+- Portfolio: https://www.danielwhite.uk/
 - Email: mailto:daniel.belyi@outlook.com
