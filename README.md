@@ -9,15 +9,31 @@
   <a href="mailto:daniel.belyi@outlook.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%E2%9C%94-informational" />
-  <img src="https://img.shields.io/badge/Next.js-%E2%9C%94-informational" />
-  <img src="https://img.shields.io/badge/TypeScript-%E2%9C%94-informational" />
-  <img src="https://img.shields.io/badge/Astro-%E2%9C%94-informational" />
-  <img src="https://img.shields.io/badge/Tailwind-%E2%9C%94-informational" />
-  <img src="https://img.shields.io/badge/Node.js-%E2%9C%94-informational" />
-  <img src="https://img.shields.io/badge/Bun-%E2%9C%94-informational" />
-  <img src="https://img.shields.io/badge/GraphQL-%E2%9C%94-informational" />
+### 🧠 Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" />
+</p>
+
+**Backend / Platform**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" />
+</p>
+
+**Tooling**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="32" />
 </p>
 
 ---
