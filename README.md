@@ -45,9 +45,10 @@ Strong focus on **UI systems, performance, developer experience**, and shipping 
 ---
 
 ### Highlights
-- Led a front-end rebuild (**React / Next.js / TypeScript / Tailwind**) resulting in **~35% faster load times**
-- Built a **personalised pricing & quote flow** contributing to **~60% increase in sales**
-- Improved delivery speed and code quality through better component architecture and Agile collaboration
+- Delivered major parts of a front-end rebuild (React, Next.js, TypeScript, Tailwind), resulting in ~35% faster load times and improved UX
+- Built a personalised pricing and quote flow contributing to ~60% increase in sales
+- Developed a prize wheel competition with single-entry enforcement and randomised rewards, contributing to 2,000+ new customer sign-ups
+- Improved delivery pace and code quality through better component structure and Agile collaboration
 
 ---
 
