@@ -71,7 +71,7 @@ Laying the groundwork for future AI-assisted DOM → component workflows.
 
 <br /> 
 <br /> 
-<p align="center">
+<p>
   <img src="./assets/Cloudy.gif" width="400" alt="Cloudy Inspector demo" />
 </p>
 
