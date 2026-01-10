@@ -69,7 +69,6 @@ Cloudy Inspector is a developer tool focused on turning **real production UI** i
 Laying the groundwork for future AI-assisted DOM → component workflows.
 </sub>
 
-<!-- Optional demo GIF
 <p align="center">
   <img src="./assets/cloudy-inspector-demo.gif" width="800" alt="Cloudy Inspector demo" />
 </p>
