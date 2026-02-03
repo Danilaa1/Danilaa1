@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <span style="color:#38bdf8;"><b>Front-End Engineer</b></span> · 
+  <span style="color:#38bdf8;"><b>Software Engineer</b></span> · 
   <span style="color:#a78bfa;"><b>UI Systems</b></span> · 
   <span style="color:#facc15;"><b>Developer Tooling</b></span>
 </p>
