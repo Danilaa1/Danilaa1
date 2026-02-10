@@ -26,7 +26,7 @@
 
 ## <span style="color:#38bdf8;">About</span>
 
-Front-end engineer with **3+ years** experience building and maintaining  
+Software engineer with **3+ years** experience building and maintaining  
 <span style="color:#22c55e;"><b>production-scale web applications</b></span>.
 
 I focus on:
