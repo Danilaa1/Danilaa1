@@ -133,9 +133,6 @@ Outside of client and product work, I actively invest in **backend and systems f
 - Built a small <span style="color:#38bdf8;"><b>Go CLI to-do application</b></span>
 - Exploring backend architecture, data flow, and scalability patterns
 
-<sub>
-Some work referenced here was completed during professional engagements and is included for experience purposes only. All intellectual property remains the property of the respective employers.
-</sub>
 ---
 
 ## <span style="color:#38bdf8;">Contact</span>
@@ -143,3 +140,8 @@ Some work referenced here was completed during professional engagements and is i
 - Portfolio: https://www.danielwhite.uk  
 - LinkedIn: https://www.linkedin.com/in/daniel-belyi  
 - Email: daniel.belyi@outlook.com
+
+---
+<sub>
+Some work referenced here was completed during professional engagements and is included for experience purposes only. All intellectual property remains the property of the respective employers.
+</sub>
