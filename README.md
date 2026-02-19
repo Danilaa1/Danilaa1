@@ -79,9 +79,9 @@ Laying the groundwork for future AI-assisted DOM → component workflows.
 
 ## <span style="color:#a78bfa;">Selected Work</span>
 
-**Cruise Deck Plan Detection Tool (2025)**  
+**Cruise Deck Plan Data Processing (2025)**  
 <sub>
-Node.js + TypeScript toolchain for detecting and extracting structured cabin data from deck plan images, with internal validation UI.
+Professional work completed during engagement with My Kind of Cruise. Contributed to a Node.js and TypeScript service for detecting and extracting structured cabin data from deck plan images, including internal validation tooling.
 </sub>
 
 **Freelance & Client Work**
@@ -133,6 +133,9 @@ Outside of client and product work, I actively invest in **backend and systems f
 - Built a small <span style="color:#38bdf8;"><b>Go CLI to-do application</b></span>
 - Exploring backend architecture, data flow, and scalability patterns
 
+<sub>
+Some work referenced here was completed during professional engagements and is included for experience purposes only. All intellectual property remains the property of the respective employers.
+</sub>
 ---
 
 ## <span style="color:#38bdf8;">Contact</span>
