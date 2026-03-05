@@ -1,147 +1,99 @@
-<h1 align="center">
-  Daniel White
-</h1>
+<h1 align="center">Daniel White</h1>
 
 <p align="center">
-  <span style="color:#38bdf8;"><b>Software Engineer</b></span> · 
-  <span style="color:#a78bfa;"><b>UI Systems</b></span> · 
-  <span style="color:#facc15;"><b>Developer Tooling</b></span>
+Software Engineer • Developer Tooling • UI Systems
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-belyi/">LinkedIn</a> ·
-  <a href="https://www.danielwhite.uk/">Portfolio</a> ·
-  <a href="mailto:daniel.belyi@outlook.com">Email</a>
+<a href="https://www.danielwhite.uk">Portfolio</a> •
+<a href="https://www.linkedin.com/in/daniel-belyi/">LinkedIn</a> •
+<a href="mailto:daniel.belyi@outlook.com">Email</a>
 </p>
 
-<br />
+---
+
+## Developer Dashboard
 
 <p align="center">
-  <sub>
-    Building production-grade interfaces and tools with a focus on performance, clarity, and developer experience.
-  </sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=danielbelyi&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbelyi&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielbelyi&hide_border=true"/>
+
 </p>
 
 ---
 
-## <span style="color:#38bdf8;">About</span>
+## Current Focus
 
-Software engineer with **3+ years** experience building and maintaining  
-<span style="color:#22c55e;"><b>production-scale web applications</b></span>.
+Building developer tools and production-grade interfaces.
 
-I focus on:
-- <span style="color:#a78bfa;">UI systems & component architecture</span>
-- <span style="color:#facc15;">Performance & UX polish</span>
-- <span style="color:#22c55e;">Shipping features with measurable impact</span>
+**Cloudy Inspector**
 
----
+Chrome extension focused on turning real production UI into reusable component candidates.
 
-## <span style="color:#f97316;">Impact Highlights</span>
+Core ideas
 
-- Delivered major parts of a front-end rebuild  
-  <sub>(React, Next.js, TypeScript, Tailwind)</sub>  
-  → ~**35% faster load times** and improved UX
-
-- Built a personalised pricing & quote flow  
-  → ~**60% increase in sales**
-
-- Developed a **spin-to-win prize system** with single-entry enforcement  
-  → **2,000+ new customer sign-ups**
-
-- Improved delivery pace and code quality through better component structure and Agile collaboration
+• Inspect live DOM elements  
+• Extract HTML and class structures  
+• Save and organise UI components  
+• Future AI-assisted DOM → component workflows
 
 ---
 
-## <span style="color:#22c55e;">Currently Building</span>
+## Tech Stack
 
-### 🔍 <span style="color:#38bdf8;">Cloudy Inspector</span>  
-<sub>Chrome Extension for UI inspection & component reuse</sub>
-
-Cloudy Inspector is a developer tool focused on turning **real production UI** into reusable component candidates.
-
-**Core ideas**
-- Inspect live DOM elements
-- Extract clean **HTML + class names**
-- Save and organise component candidates locally
-- Fast, minimal UI built with <span style="color:#a78bfa;">Plasmo · React · TypeScript · Framer Motion</span>
-
-<sub>
-Laying the groundwork for future AI-assisted DOM → component workflows.
-</sub>
-
-<br /> 
-<br /> 
 <p>
-  <img src="./assets/Cloudy.gif" width="400" alt="Cloudy Inspector demo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
+
 </p>
 
 ---
 
-## <span style="color:#a78bfa;">Selected Work</span>
+## Selected Work
 
-**Cruise Deck Plan Data Processing (2025)**  
-<sub>
-Professional work completed during engagement with My Kind of Cruise. Contributed to a Node.js and TypeScript service for detecting and extracting structured cabin data from deck plan images, including internal validation tooling.
-</sub>
+Cruise Deck Plan Data Processing  
+Node.js and TypeScript service detecting and extracting structured cabin data from deck plan images.
 
-**Freelance & Client Work**
-- E-commerce platforms (WooCommerce, Stripe, PayPal)
-- Performance, SEO, and checkout optimisation
-- Secure payments, GDPR flows, production support
+Freelance & Client Work
+
+• E-commerce platforms  
+• Payment integrations (Stripe, PayPal)  
+• Performance optimisation  
+• Production UI systems
 
 ---
 
-## <span style="color:#38bdf8;">Tech Stack</span>
+## Building
 
-### <span style="color:#22c55e;">Frontend</span>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="32" />
+Cloudy Inspector  
+Developer tooling for UI extraction and component reuse.
+
+Future direction
+
+• DOM → component generation  
+• UI diffing and version tracking  
+• AI-assisted interface workflows
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=danielbelyi&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </p>
-
-### <span style="color:#facc15;">Backend / Platform</span>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" />
-</p>
-
-### <span style="color:#f97316;">Testing / CMS / Tooling</span>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="32" />
-</p>
-
----
-
-## <span style="color:#a78bfa;">Learning & Exploration</span>
-
-Outside of client and product work, I actively invest in **backend and systems fundamentals**.
-
-- Writing <span style="color:#22c55e;"><b>Go</b></span> for tooling and services
-- Built a small <span style="color:#38bdf8;"><b>Go CLI to-do application</b></span>
-- Exploring backend architecture, data flow, and scalability patterns
-
----
-
-## <span style="color:#38bdf8;">Contact</span>
-
-- Portfolio: https://www.danielwhite.uk  
-- LinkedIn: https://www.linkedin.com/in/daniel-belyi  
-- Email: daniel.belyi@outlook.com
-
----
-<sub>
-Some work referenced here was completed during professional engagements and is included for experience purposes only. All intellectual property remains the property of the respective employers.
-</sub>
