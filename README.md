@@ -17,9 +17,9 @@
       <img src="./assets/readme-link-twitter.svg" alt="visit my Twitter/X profile" width="100%" align="left" />
     </picture>
   </a>
-  
+
   <picture>
     <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-main.svg" />
-    <img src="./assets/readme-main.svg" alt="I'm Daniel. A Brooklyn-based internet enthusiast, creative technologist and maker of digital ephemera." width="100%" align="left" />
+    <img src="./assets/readme-main.svg" alt="I'm Daniel. A Derby-based front end engineer building high-quality interfaces, practical developer tools, and useful digital systems." width="100%" align="left" />
   </picture>
 </article>
