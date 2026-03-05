@@ -1,0 +1,596 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1080" viewBox="0 0 1600 1080" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Belyi - Interactive README Surface</title>
+  <desc id="desc">A responsive website-like profile card rendered inside an SVG using HTML and CSS.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2b3952" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0d1422" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2f65ff"/>
+      <stop offset="50%" stop-color="#3ea1ff"/>
+      <stop offset="100%" stop-color="#4bb4ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="1597" height="1077" rx="24" fill="#04070f" stroke="url(#frame)" stroke-width="3"/>
+  <rect x="50" y="992" width="1500" height="4" rx="2" fill="url(#edge)" opacity="0.5"/>
+
+  <foreignObject x="0" y="0" width="1600" height="1080">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="scene">
+      <style>
+        :root {
+          --bg: #04070f;
+          --panel: rgba(7, 13, 26, 0.72);
+          --text: #d8e8ff;
+          --muted: #8ea3c8;
+          --link: #4aa8ff;
+          --link-soft: #2a6cf7;
+          --cell: #111b31;
+          --cell-mid: #1f3f92;
+          --cell-hot: #2f7cff;
+          --cell-glow: rgba(67, 138, 255, 0.45);
+        }
+
+        * {
+          box-sizing: border-box;
+        }
+
+        .scene {
+          width: 100%;
+          height: 100%;
+          padding: 46px;
+          color: var(--text);
+          background:
+            radial-gradient(1200px 600px at 80% -10%, rgba(52, 103, 255, 0.17), transparent 70%),
+            radial-gradient(900px 520px at -10% 110%, rgba(0, 87, 255, 0.12), transparent 70%),
+            var(--bg);
+          font-family: "Trebuchet MS", "Gill Sans", "Segoe UI", sans-serif;
+        }
+
+        .surface {
+          width: 100%;
+          height: 100%;
+          border: 1px solid rgba(76, 112, 174, 0.25);
+          border-radius: 20px;
+          background: linear-gradient(180deg, rgba(6, 10, 20, 0.72), rgba(3, 7, 14, 0.86));
+          backdrop-filter: blur(1px);
+          display: grid;
+          grid-template-rows: auto 1fr auto;
+          overflow: hidden;
+        }
+
+        .topbar {
+          display: grid;
+          grid-template-columns: 1fr auto auto;
+          gap: 18px;
+          align-items: center;
+          padding: 26px 32px 14px;
+          font-family: "Courier New", "Lucida Console", monospace;
+          font-size: 20px;
+          letter-spacing: 0.03em;
+          color: #c2d6ff;
+        }
+
+        .repo {
+          opacity: 0.9;
+        }
+
+        .stat {
+          color: #77afff;
+          font-weight: 700;
+        }
+
+        .main {
+          display: grid;
+          grid-template-columns: 0.95fr 1.45fr;
+          gap: 36px;
+          padding: 8px 32px 20px;
+          min-height: 0;
+        }
+
+        .menu {
+          display: flex;
+          flex-direction: column;
+          gap: 10px;
+          padding-top: 26px;
+          color: var(--muted);
+          font-size: 21px;
+          line-height: 1.25;
+        }
+
+        .menu b {
+          font-size: 44px;
+          line-height: 0.95;
+          color: #f0f5ff;
+          letter-spacing: 0.01em;
+          font-family: Georgia, "Times New Roman", serif;
+          margin-bottom: 8px;
+          font-weight: 700;
+        }
+
+        .menu a {
+          color: var(--link);
+          text-decoration: none;
+          width: fit-content;
+          border-bottom: 1px solid transparent;
+          transition: border-color 220ms ease, color 220ms ease;
+        }
+
+        .menu a:hover {
+          color: #7ac4ff;
+          border-bottom-color: rgba(122, 196, 255, 0.85);
+        }
+
+        .pitch {
+          display: grid;
+          align-content: end;
+          justify-items: start;
+          gap: 14px;
+        }
+
+        .kicker {
+          font-size: 16px;
+          letter-spacing: 0.18em;
+          text-transform: uppercase;
+          color: #7f99c5;
+          font-weight: 700;
+        }
+
+        .headline {
+          margin: 0;
+          font-size: clamp(42px, 4.2vw, 72px);
+          line-height: 0.98;
+          letter-spacing: 0.01em;
+          font-family: Georgia, "Times New Roman", serif;
+          color: #eef5ff;
+          max-width: 22ch;
+        }
+
+        .sub {
+          margin: 0;
+          max-width: 52ch;
+          font-size: clamp(18px, 1.5vw, 27px);
+          line-height: 1.35;
+          color: #97afd8;
+        }
+
+        .sub strong {
+          color: #dbe9ff;
+          font-weight: 700;
+        }
+
+        .matrix-wrap {
+          padding: 0 32px 30px;
+        }
+
+        .matrix {
+          position: relative;
+          display: grid;
+          grid-template-columns: repeat(24, minmax(0, 1fr));
+          gap: 9px;
+          padding: 14px;
+          border-radius: 16px;
+          background: linear-gradient(180deg, rgba(8, 15, 30, 0.75), rgba(6, 11, 22, 0.92));
+          border: 1px solid rgba(64, 102, 166, 0.22);
+          overflow: hidden;
+        }
+
+        .matrix::after {
+          content: "";
+          position: absolute;
+          inset: auto 0 0;
+          height: 44%;
+          background: linear-gradient(180deg, rgba(3, 7, 14, 0), rgba(3, 7, 14, 0.65));
+          pointer-events: none;
+        }
+
+        .matrix i {
+          display: block;
+          aspect-ratio: 1 / 1;
+          border-radius: 8px;
+          background: var(--cell);
+          box-shadow: inset 0 0 0 1px rgba(19, 35, 65, 0.8);
+          animation: breathe 6.2s ease-in-out infinite;
+          opacity: 0.92;
+        }
+
+        .matrix i:nth-child(5n) {
+          background: #152749;
+        }
+
+        .matrix i:nth-child(7n) {
+          background: var(--cell-mid);
+        }
+
+        .matrix i:nth-child(13n) {
+          background: var(--cell-hot);
+          box-shadow: 0 0 0 1px rgba(45, 117, 255, 0.44), 0 0 14px var(--cell-glow);
+        }
+
+        .matrix i:nth-child(19n) {
+          background: #204cae;
+          box-shadow: 0 0 0 1px rgba(69, 144, 255, 0.45), 0 0 11px rgba(58, 121, 255, 0.34);
+        }
+
+        .matrix i:nth-child(3n) {
+          animation-delay: -0.9s;
+        }
+
+        .matrix i:nth-child(4n) {
+          animation-delay: -1.4s;
+        }
+
+        .matrix i:nth-child(6n) {
+          animation-delay: -2.1s;
+        }
+
+        .matrix i:nth-child(8n) {
+          animation-delay: -2.7s;
+        }
+
+        .matrix i:nth-child(11n) {
+          animation-delay: -3.3s;
+        }
+
+        @keyframes breathe {
+          0%, 100% {
+            transform: translateY(0px);
+            filter: brightness(0.94);
+          }
+          50% {
+            transform: translateY(-1.5px);
+            filter: brightness(1.14);
+          }
+        }
+
+        @media (max-width: 1120px) {
+          .topbar {
+            font-size: 17px;
+            padding: 20px 24px 10px;
+          }
+
+          .main {
+            gap: 24px;
+            padding: 6px 24px 16px;
+          }
+
+          .menu {
+            font-size: 19px;
+            padding-top: 14px;
+          }
+
+          .menu b {
+            font-size: 34px;
+          }
+
+          .sub {
+            font-size: 19px;
+          }
+
+          .matrix-wrap {
+            padding: 0 24px 24px;
+          }
+
+          .matrix {
+            grid-template-columns: repeat(20, minmax(0, 1fr));
+            gap: 8px;
+          }
+        }
+
+        @media (max-width: 760px) {
+          .scene {
+            padding: 20px;
+          }
+
+          .surface {
+            border-radius: 16px;
+          }
+
+          .topbar {
+            grid-template-columns: 1fr;
+            gap: 6px;
+            font-size: 13px;
+            padding: 16px 16px 8px;
+          }
+
+          .main {
+            grid-template-columns: 1fr;
+            gap: 10px;
+            padding: 4px 16px 12px;
+          }
+
+          .menu {
+            order: 2;
+            font-size: 15px;
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 8px 12px;
+            padding-top: 0;
+          }
+
+          .menu b {
+            flex-basis: 100%;
+            font-size: 26px;
+            margin-bottom: 2px;
+          }
+
+          .pitch {
+            order: 1;
+            gap: 10px;
+          }
+
+          .kicker {
+            font-size: 11px;
+            letter-spacing: 0.12em;
+          }
+
+          .headline {
+            font-size: clamp(28px, 8.8vw, 52px);
+            max-width: 100%;
+          }
+
+          .sub {
+            font-size: 15px;
+            max-width: 100%;
+          }
+
+          .matrix-wrap {
+            padding: 0 16px 16px;
+          }
+
+          .matrix {
+            grid-template-columns: repeat(12, minmax(0, 1fr));
+            gap: 6px;
+            padding: 10px;
+            border-radius: 12px;
+          }
+        }
+      </style>
+
+      <article class="surface">
+        <header class="topbar">
+          <span class="repo">danielbelyi/readme.md</span>
+          <span class="stat">Developer Tooling x UI Systems</span>
+          <span class="stat">shipping 2026</span>
+        </header>
+
+        <section class="main">
+          <nav class="menu" aria-label="Profile links">
+            <b>Menu</b>
+            <a href="https://www.danielwhite.uk">Portfolio -&gt;</a>
+            <a href="https://www.linkedin.com/in/daniel-belyi/">LinkedIn -&gt;</a>
+            <a href="mailto:daniel.belyi@outlook.com">Email -&gt;</a>
+            <a href="https://github.com/danielbelyi">GitHub -&gt;</a>
+          </nav>
+
+          <div class="pitch">
+            <span class="kicker">Product Engineer | UI Infrastructure</span>
+            <h1 class="headline">Daniel Belyi builds sharp, production UI from messy real-world interfaces.</h1>
+            <p class="sub">Currently building <strong>Cloudy Inspector</strong>: a DOM-to-component workflow for extracting, validating, and reusing interface patterns from live products.</p>
+          </div>
+        </section>
+
+        <footer class="matrix-wrap">
+          <div class="matrix" aria-hidden="true">
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>          </div>
+        </footer>
+      </article>
+    </div>
+  </foreignObject>
+</svg>
