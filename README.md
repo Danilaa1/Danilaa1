@@ -1,9 +1,4 @@
 <article>
-  <picture>
-    <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-top.svg" />
-    <img src="./assets/readme-top.svg" width="100%" align="left" alt="readme top" />
-  </picture>
-
   <a href="https://www.danielwhite.uk">
     <picture>
       <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-link-website.svg" />
@@ -15,13 +10,6 @@
     <picture>
       <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-link-twitter.svg" />
       <img src="./assets/readme-link-twitter.svg" alt="visit my Twitter/X profile" width="100%" align="left" />
-    </picture>
-  </a>
-
-  <a href="https://www.instagram.com/">
-    <picture>
-      <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-link-instagram.svg" />
-      <img src="./assets/readme-link-instagram.svg" alt="visit my Instagram" width="100%" align="left" />
     </picture>
   </a>
 
