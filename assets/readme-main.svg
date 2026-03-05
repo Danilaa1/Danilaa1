@@ -8,7 +8,7 @@
     }
   </style>
   <rect width="840" height="520" class="bg"/>
-  <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-style="italic" class="text" opacity="0">
+  <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" class="text" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="1.2s" fill="freeze"/>
     <tspan x="400" y="240">I'm Daniel. A Derby-based front end</tspan>
     <tspan x="400" y="274">engineer building high-quality</tspan>

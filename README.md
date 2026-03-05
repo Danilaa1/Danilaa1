@@ -19,6 +19,13 @@
   </a>
 
   <picture>
+    <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-avatar.svg" />
+    <img src="./assets/readme-avatar.svg" alt="" width="100%" align="left" />
+  </picture>
+
+  <img src="./assets/Me.png" alt="Daniel" width="120" align="left" />
+
+  <picture>
     <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-main.svg" />
     <img src="./assets/readme-main.svg" alt="I'm Daniel. A Derby-based front end engineer building high-quality interfaces, practical developer tools, and useful digital systems." width="100%" align="left" />
   </picture>
