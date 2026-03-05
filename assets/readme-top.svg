@@ -1,18 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="20" viewBox="0 0 800 20">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="20" viewBox="0 0 840 20">
   <style>
     .bg { fill: #0d1117; }
-    .text-primary { fill: #e6edf3; }
-    .text-secondary { fill: #7d8590; }
+    .text { fill: #3b82f6; }
     @media (prefers-color-scheme: light) {
       .bg { fill: #ffffff; }
-      .text-primary { fill: #1f2328; }
-      .text-secondary { fill: #656d76; }
+      .text { fill: #0969da; }
     }
   </style>
-  <rect width="800" height="20" class="bg"/>
-  <text x="10" y="14" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9">
-    <tspan class="text-primary" font-weight="600">danielbelyi</tspan>
-    <tspan class="text-secondary"> / </tspan>
-    <tspan class="text-secondary">readme.md</tspan>
-  </text>
+  <rect width="840" height="20" class="bg"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" class="text">
+    <text x="12" y="14" font-weight="600">Menu</text>
+    <text x="420" y="14" text-anchor="middle">1.2k Contributions</text>
+    <text x="828" y="14" text-anchor="end">readme.md</text>
+  </g>
 </svg>

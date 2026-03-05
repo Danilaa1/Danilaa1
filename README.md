@@ -1,7 +1,7 @@
 <article>
   <picture>
     <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-top.svg" />
-    <img src="./assets/readme-top.svg" alt="danielbelyi / readme.md" width="100%" align="left" />
+    <img src="./assets/readme-top.svg" alt="Menu | 1.2k Contributions | readme.md" width="100%" align="left" />
   </picture>
 
   <a href="https://www.danielwhite.uk">
