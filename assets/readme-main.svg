@@ -15,4 +15,9 @@
     <tspan x="400" y="308">interfaces, practical developer tools,</tspan>
     <tspan x="400" y="342">and useful digital systems.</tspan>
   </text>
+  <line x1="400" y1="360" x2="400" y2="360" stroke="#e0a458" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.6" dur="1s" begin="2.5s" fill="freeze"/>
+    <animate attributeName="x1" from="400" to="320" dur="1s" begin="2.5s" fill="freeze"/>
+    <animate attributeName="x2" from="400" to="480" dur="1s" begin="2.5s" fill="freeze"/>
+  </line>
 </svg>

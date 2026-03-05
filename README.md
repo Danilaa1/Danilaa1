@@ -11,7 +11,7 @@
     </picture>
   </a>
 
-  <a href="https://twitter.com/">
+  <a href="https://x.com/DanielWhit21874">
     <picture>
       <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-link-twitter.svg" />
       <img src="./assets/readme-link-twitter.svg" alt="visit my Twitter/X profile" width="100%" align="left" />
