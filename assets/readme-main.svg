@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" fill="none">
+  <rect width="1600" height="420" fill="#020814"/>
+  <path d="M1 0V406C1 413.2 6.8 419 14 419H1586C1593.2 419 1599 413.2 1599 406V0" stroke="#4b5b75" stroke-width="2"/>
+  <text x="810" y="120" fill="#2f72ff" font-size="70" font-family="Helvetica Neue,Helvetica,Segoe UI,sans-serif">
+    <tspan x="810" dy="0">I'm Daniel. A product-focused engineer</tspan>
+    <tspan x="810" dy="74">building practical developer tools,</tspan>
+    <tspan x="810" dy="74">high-quality interfaces, and useful</tspan>
+    <tspan x="810" dy="74">digital systems.</tspan>
+  </text>
+</svg>
