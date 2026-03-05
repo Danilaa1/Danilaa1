@@ -12,24 +12,6 @@ Software Engineer • Developer Tooling • UI Systems
 
 ---
 
-## Developer Dashboard
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=danielbelyi&show_icons=true&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbelyi&layout=compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielbelyi&hide_border=true"/>
-
-</p>
-
----
-
 ## Current Focus
 
 Building developer tools and production-grade interfaces.
