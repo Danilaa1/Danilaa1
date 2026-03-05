@@ -25,7 +25,7 @@ Core ideas
 • Inspect live DOM elements  
 • Extract HTML and class structures  
 • Save and organise UI components  
-• Future AI-assisted DOM → component workflows
+• Future AI-assisted DOM → component workflows  
 
 ---
 
@@ -49,28 +49,31 @@ Core ideas
 
 ## Selected Work
 
-Cruise Deck Plan Data Processing  
-Node.js and TypeScript service detecting and extracting structured cabin data from deck plan images.
+**Cruise Cabin Detection (2025)**  
+Collaborative project completed during professional work for **My Kind of Cruise**.
 
-Freelance & Client Work
+Contributed to a **Node.js and TypeScript service** that detects and extracts structured cabin data from cruise deck plan images, including internal tooling used for data validation and processing.
+
+**Freelance & Client Work**
 
 • E-commerce platforms  
 • Payment integrations (Stripe, PayPal)  
 • Performance optimisation  
-• Production UI systems
+• Production UI systems  
 
 ---
 
 ## Building
 
-Cloudy Inspector  
+**Cloudy Inspector**
+
 Developer tooling for UI extraction and component reuse.
 
 Future direction
 
 • DOM → component generation  
 • UI diffing and version tracking  
-• AI-assisted interface workflows
+• AI-assisted interface workflows  
 
 ---
 
@@ -79,3 +82,10 @@ Future direction
 <img src="https://komarev.com/ghpvc/?username=danielbelyi&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
+
+---
+
+<sub>
+Some work referenced here was completed during professional engagements and is included for experience purposes only.  
+All intellectual property remains the property of the respective employers.
+</sub>
