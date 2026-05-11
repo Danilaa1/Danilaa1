@@ -1,30 +1,56 @@
-<article>
-  <picture>
-    <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-top.svg" />
-    <img src="./assets/readme-top.svg" alt="Menu | 1.2k Contributions | readme.md" width="100%" align="left" />
-  </picture>
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" />
+</div>
 
-  <a href="https://www.danielwhite.uk">
-    <picture>
-      <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-link-website.svg" />
-      <img src="./assets/readme-link-website.svg" alt="visit my website" width="100%" align="left" />
-    </picture>
-  </a>
+<br />
 
-  <a href="https://x.com/DanielWhit21874">
-    <picture>
-      <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-link-twitter.svg" />
-      <img src="./assets/readme-link-twitter.svg" alt="visit my Twitter/X profile" width="100%" align="left" />
-    </picture>
-  </a>
+```go
+package main
 
-  <picture>
-    <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-avatar.svg" />
-    <img src="./assets/readme-avatar.svg" alt="" width="100%" align="left" />
-  </picture>
+type Engineer struct {
+    Name        string
+    Location    string
+    Role        string
+    Focus       []string
+    Stack       []string
+    Architecture []string
+    CurrentBuilds []string
+}
 
-  <picture>
-    <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="./assets/readme-main.svg" />
-    <img src="./assets/readme-main.svg" alt="I'm Daniel. A Derby-based front end engineer building high-quality interfaces, practical developer tools, and useful digital systems." width="100%" align="left" />
-  </picture>
-</article>
+func NewEngineer() Engineer {
+    return Engineer{
+        Name:     "Daniel White",
+        Location: "Derby, UK",
+        Role:     "Software Engineer",
+        Focus: []string{
+            "Backend Systems",
+            "Distributed Systems",
+            "Developer Tooling",
+            "Performance Engineering",
+            "System Design",
+        },
+        Stack: []string{
+            "Go",
+            "TypeScript",
+            "Node.js",
+            "React",
+            "Next.js",
+            "PostgreSQL",
+            "Docker",
+            "Kubernetes",
+        },
+        Architecture: []string{
+            "HTTP Internals",
+            "Concurrency",
+            "Caching",
+            "Queues",
+            "Profiling",
+            "Observability",
+        },
+        CurrentBuilds: []string{
+            "Cloudy Inspector",
+            "Multi-Repo AI CLI",
+            "Go Tooling Projects",
+        },
+    }
+}
