@@ -26,7 +26,7 @@ var daniel = Engineer{
     Role:     "Software Engineer",
 
     Stack: []string{
-        "Go",
+        "Rust",
         "TypeScript",
         "Node.js",
         "React",
@@ -71,7 +71,7 @@ $ status
 • Built high-performance booking and checkout experiences
 • Designed scalable API/session workflows
 • Researched interactive deck-plan visualisation systems
-• Building tooling and backend-focused projects in Go
+• Building tooling and backend-focused projects in Rust
 ```
 
 ---
@@ -79,7 +79,7 @@ $ status
 ```bash
 $ current_focus
 
-> mastering Go
+> mastering Rust
 > backend fundamentals
 > distributed systems
 > scalable architecture
