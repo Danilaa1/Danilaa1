@@ -13,7 +13,7 @@
   <a href="https://x.com/DanielWhit21874">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Danilaa1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -249,7 +249,7 @@ Infrastructure       ██████░░░░░░░░░░░░░�
 
 <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danilaa1&show_icons=true&theme=github_dark&hide_border=true" /> -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Danilaa1&theme=github-dark-blue&hide_border=true)
+<img height="170" src="https://streak-stats.demolab.com?user=Danilaa1&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
