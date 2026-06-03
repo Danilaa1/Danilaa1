@@ -249,7 +249,7 @@ Infrastructure       ██████░░░░░░░░░░░░░�
 
 <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danilaa1&show_icons=true&theme=github_dark&hide_border=true" /> -->
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Danilaa1&theme=github-dark-blue&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Danilaa1&theme=github-dark-blue&hide_border=true)
 
 </div>
 
