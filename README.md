@@ -1,108 +1,270 @@
 <div align="center">
 
-# <span style="color:#F97316;">D</span><span style="color:#3B82F6;">A</span><span style="color:#10B981;">N</span><span style="color:#EAB308;">I</span><span style="color:#8B5CF6;">E</span><span style="color:#EF4444;">L</span> <span style="color:#06B6D4;">W</span><span style="color:#F59E0B;">H</span><span style="color:#22C55E;">I</span><span style="color:#6366F1;">T</span><span style="color:#EC4899;">E</span>
+# Daniel White
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Systems+Focused;Building+Developer+Tools;Learning+Distributed+Systems+%26+Go" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+%26+Systems+Focused;Building+Developer+Tools;Learning+Rust+%26+Distributed+Systems;Performance+Obsessed;Turning+Ideas+Into+Production+Software" />
+
+<br/>
+
+<p>
+  <a href="https://danielwhite.uk">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://x.com/DanielWhit21874">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-```go
-package main
+## About Me
 
-type Engineer struct {
-    Name      string
-    Location  string
-    Role      string
-    Stack     []string
-    Focus     []string
-    Building  []string
+```rust
+#[derive(Debug)]
+struct Engineer {
+    name: &'static str,
+    role: &'static str,
+    location: &'static str,
+    mission: &'static str,
+    stack: Vec<&'static str>,
+    focus: Vec<&'static str>,
+    building: Vec<&'static str>,
 }
 
-var daniel = Engineer{
-    Name:     "Daniel White",
-    Location: "Derby, UK",
-    Role:     "Software Engineer",
+fn main() {
+    let daniel = Engineer {
+        name: "Daniel White",
+        role: "Software Engineer",
+        location: "United Kingdom",
 
-    Stack: []string{
-        "Rust",
-        "TypeScript",
-        "Node.js",
-        "React",
-        "Next.js",
-        "PostgreSQL",
-        "Docker",
-        "Kubernetes",
-    },
+        mission: "Build software that solves painful problems and scales.",
 
-    Focus: []string{
-        "Distributed Systems",
-        "Backend Architecture",
-        "Developer Tooling",
-        "Performance Engineering",
-    },
+        stack: vec![
+            "Rust",
+            "TypeScript",
+            "Node.js",
+            "React",
+            "Next.js",
+            "PostgreSQL",
+            "Docker",
+            "Linux",
+        ],
 
-    Building: []string{
-        "Cloudy Inspector",
-        "Multi-Repo AI CLI",
-        "System Design Projects",
-    },
+        focus: vec![
+            "Backend Engineering",
+            "System Design",
+            "Distributed Systems",
+            "Developer Tooling",
+            "Performance Engineering",
+        ],
+
+        building: vec![
+            "Website Audit CLI",
+            "Cloudy Inspector",
+            "Multi-Repo AI CLI",
+            "Open Source Tools",
+        ],
+    };
+
+    println!("{:#?}", daniel);
 }
 ```
 
 ---
+
+## Status
 
 ```bash
 $ status
-
-> building scalable systems
-> learning backend fundamentals deeply
-> obsessed with performance & tooling
-> turning ideas into production software
 ```
-
----
-
-### Selected Work
 
 ```txt
-• Reduced multi-megabyte payloads across production applications
-• Built high-performance booking and checkout experiences
-• Designed scalable API/session workflows
-• Researched interactive deck-plan visualisation systems
-• Building tooling and backend-focused projects in Rust
+✓ Building production software
+
+✓ Learning Rust deeply
+
+✓ Studying backend architecture
+
+✓ Exploring distributed systems
+
+✓ Creating developer tooling
+
+✓ Contributing to open source
 ```
 
 ---
+
+## Current Focus
 
 ```bash
 $ current_focus
+```
 
-> mastering Rust
-> backend fundamentals
-> distributed systems
-> scalable architecture
-> infrastructure & tooling
+```txt
+→ Rust
+
+→ Systems Programming
+
+→ Distributed Systems
+
+→ Backend Architecture
+
+→ Infrastructure
+
+→ Databases
+
+→ Developer Tooling
 ```
 
 ---
 
-```bash
-$ philosophy
+## Selected Work
 
-> performance is a feature
-> simplicity scales
-> build boring systems that survive production
-> master fundamentals before frameworks
+```txt
+• Built production booking and checkout experiences
+
+• Improved performance across large-scale applications
+
+• Reduced heavy payload sizes and improved loading performance
+
+• Designed scalable authentication and session workflows
+
+• Built internal tooling to improve developer productivity
+
+• Worked extensively with React, Next.js, APIs, payments, and platform engineering
+
+• Building open-source tooling focused on performance and developer experience
 ```
 
 ---
+
+## Projects
+
+### Website Audit CLI
+
+```txt
+Performance Auditing
+
+Accessibility Checks
+
+SEO Validation
+
+Security Analysis
+
+HTML Structure Auditing
+
+JSON Reports
+
+Markdown Reports
+
+CI/CD Friendly
+```
+
+---
+
+## Toolbox
 
 <div align="center">
 
-<a href="https://danielwhite.uk">website</a> •
-<a href="https://x.com/DanielWhit21874">twitter</a> •
-<a href="https://github.com/YOUR_USERNAME">github</a>
+<img src="https://skillicons.dev/icons?i=rust,ts,js,nodejs,react,nextjs,postgres,docker,linux,git,github,bash,vscode" />
+
+</div>
+
+---
+
+## Engineering Interests
+
+```txt
+Backend Engineering
+
+System Design
+
+Distributed Systems
+
+Developer Experience
+
+Performance Optimisation
+
+Infrastructure
+
+Open Source
+
+Databases
+
+Networking
+
+Operating Systems
+```
+
+---
+
+## Philosophy
+
+```bash
+$ philosophy
+```
+
+```txt
+performance is a feature
+
+simplicity scales
+
+master fundamentals before frameworks
+
+build boring systems that survive production
+
+understand how things work underneath
+
+ship software that solves real problems
+```
+
+---
+
+## Learning Roadmap
+
+```txt
+Rust                 ████████████░░░░░░░░
+
+Backend Engineering  ███████████░░░░░░░░░
+
+System Design        ██████████░░░░░░░░░░
+
+Distributed Systems  ████████░░░░░░░░░░░░
+
+Databases            ███████░░░░░░░░░░░░░
+
+Infrastructure       ██████░░░░░░░░░░░░░░
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://danielwhite.uk">Website</a> •
+<a href="https://x.com/DanielWhit21874">Twitter</a> •
+<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+
+<br/><br/>
+
+Building software. Learning deeply. Improving daily.
 
 </div>
