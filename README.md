@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://github.com/sponsors/Danilaa1">
+  <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" />
+</a>
+
 </div>
 
 ---
