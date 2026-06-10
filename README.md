@@ -33,7 +33,7 @@ Software Engineer focused on backend systems, developer tooling, and performance
 Currently building:
 
 - Website Audit CLI
-- Cloudy Inspector
+- Text roll zero dependency library
 - Open Source Developer Tools
 
 ---
