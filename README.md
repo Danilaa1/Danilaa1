@@ -2,7 +2,7 @@
 
 # Daniel White
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+Systems+Focused;Building+Developer+Tools;Learning+Rust+%26+Distributed+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+Developer+Tools;Rust+%7C+TypeScript;Open+Source+Builder" />
 
 <br>
 
@@ -11,11 +11,7 @@
 </a>
 
 <a href="https://x.com/DanielWhit21874">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://github.com/Danilaa1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://github.com/sponsors/Danilaa1">
@@ -28,31 +24,37 @@
 
 ## About
 
-Software Engineer focused on backend systems, developer tooling, and performance engineering.
+Software Engineer focused on designing systems, building developer tools, and solving operational friction through software.
 
-Currently building:
+I enjoy taking messy, repetitive, or time-consuming workflows and turning them into reliable products that scale. My work spans frontend applications, backend services, browser tooling, automation, and developer experience, with a strong emphasis on simplicity, performance, and maintainability.
 
-- Website Audit CLI
-- Text roll zero dependency library
-- Open Source Developer Tools
+Currently building open-source tools including Audit Kit and TextMotion while deepening my understanding of systems programming, infrastructure, and software architecture.
+
+I believe the best software comes from understanding the problem deeply, designing the right system, and relentlessly refining the details.
 
 ---
 
-## Learning
+## Currently Building
 
-```txt
-Rust                 ████████████░░░░░░░░
+### Audit Kit
+A Rust-powered website auditing CLI that performs performance, accessibility, SEO, security, and HTML structure analysis.
 
-Backend Engineering  ███████████░░░░░░░░░
+### TextMotion
+A dependency-free text animation library for vanilla JavaScript, React, and Vue.
 
-System Design        ██████████░░░░░░░░░░
+### Open Source Developer Tools
+Experimenting with tooling, automation, browser internals, and developer workflows.
 
-Distributed Systems  ████████░░░░░░░░░░░░
+---
 
-Databases            ███████░░░░░░░░░░░░░
+## Current Focus
 
-Infrastructure       ██████░░░░░░░░░░░░░░
-```
+- Rust
+- Systems Programming
+- Backend Engineering
+- Developer Tooling
+- Performance Engineering
+- Distributed Systems
 
 ---
 
@@ -68,6 +70,6 @@ Infrastructure       ██████░░░░░░░░░░░░░�
 
 <div align="center">
 
-Building software. Learning deeply. Improving daily.
+Building useful tools. Shipping consistently. Learning in public.
 
 </div>
