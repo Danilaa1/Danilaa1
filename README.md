@@ -2,18 +2,16 @@
 
 # Daniel White
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+Developer+Tools;Rust+%7C+TypeScript;Open+Source+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Developer+Tools;Rust+%7C+TypeScript;Open+Source" />
 
-<br>
+<br />
 
 <a href="https://danielwhite.uk">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
 <a href="https://x.com/DanielWhit21874">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-
 <a href="https://github.com/sponsors/Danilaa1">
   <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" />
 </a>
@@ -24,37 +22,41 @@
 
 ## About
 
-Software Engineer focused on designing systems, building developer tools, and solving operational friction through software.
+Software Engineer building developer tools, automation systems, and small products that remove friction from real workflows.
 
-I enjoy taking messy, repetitive, or time-consuming workflows and turning them into reliable products that scale. My work spans frontend applications, backend services, browser tooling, automation, and developer experience, with a strong emphasis on simplicity, performance, and maintainability.
+I care about clean interfaces, fast feedback loops, simple architecture, and software that feels useful immediately.
 
-Currently building open-source tools including Audit Kit and TextMotion while deepening my understanding of systems programming, infrastructure, and software architecture.
-
-I believe the best software comes from understanding the problem deeply, designing the right system, and relentlessly refining the details.
+Currently building open-source tools across Rust, TypeScript, CLI tooling, browser tooling, and frontend systems.
 
 ---
 
-## Currently Building
+## Building
 
 ### Audit Kit
-A Rust-powered website auditing CLI that performs performance, accessibility, SEO, security, and HTML structure analysis.
+
+Rust-powered website auditing CLI for performance, accessibility, SEO, security, and HTML structure checks.
 
 ### TextMotion
-A dependency-free text animation library for vanilla JavaScript, React, and Vue.
 
-### Open Source Developer Tools
-Experimenting with tooling, automation, browser internals, and developer workflows.
+Dependency-free text animation library for vanilla JavaScript, React, and Vue.
+
+### Agent Landing Page Skill
+
+A reusable agent skill that asks the right setup questions first, then builds a small, tactile landing page with only the product detail needed to act.
 
 ---
 
-## Current Focus
+## Focus
 
-- Rust
-- Systems Programming
-- Backend Engineering
-- Developer Tooling
-- Performance Engineering
-- Distributed Systems
+```txt
+Rust
+TypeScript
+Backend Engineering
+Systems Programming
+Developer Tooling
+Performance
+Automation
+```
 
 ---
 
@@ -70,6 +72,6 @@ Experimenting with tooling, automation, browser internals, and developer workflo
 
 <div align="center">
 
-Building useful tools. Shipping consistently. Learning in public.
+<code>Build small. Ship fast. Refine the details.</code>
 
 </div>
