@@ -12,13 +12,13 @@
 
 ---
 
-Design engineer focused on interfaces, developer tooling, and small products that work immediately.  
-I care about the detail — motion, typography, interaction, and architecture that stays out of the way.
+I build interfaces and tools I'd actually want to use — things that feel considered, move well, and don't get in your way.  
+Mostly TypeScript and Rust. Always sweating the details.
 
 ---
 
 **[Audit Kit](https://github.com/Danilaa1/audit-kit)** — Rust CLI for performance, accessibility, SEO & security audits  
-**[TextMotion](https://textmotion.dev)** — Zero-dependency text animation for JS, React & Vue
+**[TextMotion](https://textmotion.dev)** — Zero-dependency text animation for JS, React, Vue, Svelte & Solid
 
 ---
 
