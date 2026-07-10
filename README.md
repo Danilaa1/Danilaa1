@@ -17,7 +17,7 @@ Mostly TypeScript and Rust. Always sweating the details.
 
 ---
 
-**[Audit Kit](https://github.com/Danilaa1/audit-kit)** — Rust CLI for performance, accessibility, SEO & security audits  
+**[Audit Kit](https://audit-kit.dev/)** — Rust CLI for performance, accessibility, SEO & security audits  
 **[TextMotion](https://textmotion.dev)** — Zero-dependency text animation for JS, React, Vue, Svelte & Solid
 
 ---
