@@ -2,7 +2,7 @@
 
 <br />
 
-<a href="https://danielwhite.uk">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/DanielWhit21874">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/sponsors/Danilaa1">Sponsor</a>
+<a href="https://www.danielwhite.uk/">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/dwhitedesign">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/sponsors/Danilaa1">Sponsor</a>
 
 </div>
 
