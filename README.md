@@ -4,7 +4,7 @@
 
 <strong>Design engineer building interaction primitives and local tools.</strong>
 
-[Website](https://danielwhite.uk) · [X](https://x.com/DanielWhit21874) · [Sponsor](https://github.com/sponsors/Danilaa1)
+[Website](https://www.danielwhite.uk/) · [X](https://x.com/dwhitedesign) · [Sponsor](https://github.com/sponsors/Danilaa1)
 
 </div>
 
