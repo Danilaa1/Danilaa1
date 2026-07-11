@@ -2,30 +2,33 @@
 
 # Daniel White
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Design+Engineer;UI+%26+Developer+Tooling;TypeScript+%7C+Rust;Open+Source" />
+<strong>Design engineer building interaction primitives and local tools.</strong>
 
-<a href="https://danielwhite.uk"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://x.com/DanielWhit21874"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://github.com/sponsors/Danilaa1"><img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" /></a>
+[Website](https://danielwhite.uk) · [X](https://x.com/DanielWhit21874) · [Sponsor](https://github.com/sponsors/Danilaa1)
 
 </div>
 
 ---
 
-I build interfaces and tools I'd actually want to use — things that feel considered, move well, and don't get in your way.  
-Mostly TypeScript and Rust. Always sweating the details.
+I make the interface details people notice and the tooling that lets teams ship them faster.
 
----
+## Selected work
 
-**[Audit Kit](https://audit-kit.dev/)** — Rust CLI for performance, accessibility, SEO & security audits  
-**[TextMotion](https://textmotion.dev)** — Zero-dependency text animation for JS, React, Vue, Svelte & Solid
+| Project | What it does |
+| :-- | :-- |
+| [slot-text](https://github.com/Danilaa1/slot-text) | Dependency-free rolling text animation for JavaScript, React and Vue. **903★** |
+| [Audit Kit](https://github.com/Danilaa1/auditkit) | Rust-first local audits for performance, accessibility, SEO and security. **81★** |
+| [Cuelume](https://github.com/Danilaa1/cuelume) | A small, curated Web Audio palette for interface feedback. **44★** |
+| [Segmented Pill](https://github.com/Danilaa1/segmented-pill) | An accessible segmented control for React and Vue; motion optional. |
 
----
+```txt
+small APIs   ·   considered motion   ·   zero dependencies when it matters
+```
+
+TypeScript / Rust / browser APIs
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,rust,nodejs,postgres,git,linux" />
+
+<sub>Build the detail. Keep the surface small.</sub>
+
 </div>
-
-<br />
-
-<div align="center"><code>Precise interfaces. Fast tooling. Ship the detail.</code></div>
