@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/daniel-white.svg" alt="Daniel White — Design engineer" width="100%" />
-
 <br />
 
 <a href="https://danielwhite.uk">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/DanielWhit21874">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/sponsors/Danilaa1">Sponsor</a>
